@@ -22,7 +22,6 @@ I am Saurav Nepal and I am a web developer and Data Enthusiast primarily focus o
 
 ### My Github Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nepalsaurav&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalsaurav&layout=compact&text_color=daf7dc&bg_color=151515)
 
 ### 🌎 Find Me Elsewhere:
 <p>
