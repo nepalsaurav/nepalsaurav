@@ -1,6 +1,6 @@
 ##### Hello, I'm Saurav
 
-<sub>I am Saurav Nepal and I am a web developer and Data Enthusiast primarily focused on the backend using Python, C++, JavaScript and Golang. I spend my whole day, practically every day, experimenting with HTML, CSS, data visualization, JavaScript, Python, C++ and Golang. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. In my free time I like reading novels, watching movies and exploring different domains of computer science.</sub>
+I am Saurav Nepal and I am a web developer and Data Enthusiast primarily focused on the backend using Python, C++, JavaScript and Golang. I spend my whole day, practically every day, experimenting with HTML, CSS, data visualization, JavaScript, Python, C++ and Golang. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. In my free time I like reading novels, watching movies and exploring different domains of computer science.</sub>
 
 ###### Skills & Interests:
 - <sub>Python</sub>
