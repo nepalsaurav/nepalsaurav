@@ -1,23 +1,30 @@
-##### Hello, I'm Saurav
+Saurav Nepal
 
-I am Saurav Nepal and I am a web developer and Data Enthusiast primarily focused on the backend using Python, C++, JavaScript and Golang. I spend my whole day, practically every day, experimenting with HTML, CSS, data visualization, JavaScript, Python, C++ and Golang. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. In my free time I like reading novels, watching movies and exploring different domains of computer science.</sub>
+Data, Math, Computer Science, and Economics. Based in Kathmandu, Nepal.
 
-###### Skills & Interests:
-- <sub>Python</sub>
-- <sub>Golang</sub>
-- <sub>Django</sub>
-- <sub>Node.js</sub>
-- <sub>C++ (Junior)</sub>
-- <sub>Data Analysis</sub>
-- <sub>Git</sub>
-- <sub>MySQL</sub>
-- <sub>PostgreSQL</sub>
-- <sub>Vue.js</sub>
-- <sub>Learning Rust</sub>
-- <sub>Learning Zig</sub>
+I work at the intersection of machine learning, financial systems, software engineering, and higher education.
 
-###### Find Me Elsewhere
+Currently
 
-- <sub>Website: https://infosaurav.netlify.app</sub>
-- <sub>Facebook: https://facebook.com/saurav.nepal.3363</sub>
-- <sub>LinkedIn: https://www.linkedin.com/in/saurav-nepal-75597013b/</sub>
+Lecturer (Big Data) at Herald College, Naxal
+
+IT Lecturer (DSA) at Nirvana School & College, Lalitpur
+
+IT Officer at ABC Securities Pvt. Ltd. (ML, algorithmic trading, web apps, financial automation)
+
+Research
+
+Machine Learning Free Cash Flow Forecasting for Hydropower (Main Author) — Repository
+
+Evaluating InceptionV3 and DenseNet121 for Pediatric Pneumonia Detection (Corresponding Author)
+
+Stack
+
+Languages: Python, JavaScript, Go
+
+Data & ML: Hadoop, Apache Spark, Scikit-learn, Pandas, SciPy, Deep Learning
+
+Web & Automation: Django, Node.js, Selenium, Google Apps Script
+
+Databases: MongoDB, Cassandra, PostgreSQL, MySQL
+
